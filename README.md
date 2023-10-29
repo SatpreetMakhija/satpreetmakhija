@@ -1,5 +1,5 @@
 ### Hey you 👋
-Welcome to my code repository abode. Currently, I work at Google as a Strategic Cloud Engineer in the cloud division. I help my clients make the most out of Google Cloud products. I specialise in data processing.
+Welcome to my Github profile. Currently, I work at Google as a Strategic Cloud Engineer in the cloud division. I help my clients make the most out of Google Cloud products. I specialise in data processing.
 
 I am learning golang to build scalable backend systems in my freetime and am starting to appreciate compiled languages. 
 
