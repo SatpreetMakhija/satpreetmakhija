@@ -1,1 +1,1 @@
-Hi, I'm Satpreet. I'm a computer scientist at Ashoka University working on programming languages, formal methods, and causality. I previously worked at Google on their distributed cloud team.
+Hi, I'm Satpreet. I'm a computer scientist and software engineer. I'm currently working at Ashoka University on programming languages, formal methods, and causality. I previously worked at Google on their distributed cloud team.
